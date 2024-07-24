@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/krushilramani/_ML_/ml_project/mlruns/0/2abb75b9c38e48a8b44ea17af446a81f/artifacts
+end_time: 1712990883508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2abb75b9c38e48a8b44ea17af446a81f
+run_name: bemused-fish-839
+run_uuid: 2abb75b9c38e48a8b44ea17af446a81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712990881476
+status: 3
+tags: []
+user_id: krushilramani

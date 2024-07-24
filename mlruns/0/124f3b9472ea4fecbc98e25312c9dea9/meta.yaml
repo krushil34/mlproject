@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/krushilramani/_ML_/ml_project/mlruns/0/124f3b9472ea4fecbc98e25312c9dea9/artifacts
+end_time: 1719294641135
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 124f3b9472ea4fecbc98e25312c9dea9
+run_name: dazzling-crow-130
+run_uuid: 124f3b9472ea4fecbc98e25312c9dea9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719294639066
+status: 3
+tags: []
+user_id: krushilramani

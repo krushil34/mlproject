@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/krushilramani/_ML_/ml_project/mlruns/0/15a848454752429b95eb41c654865663/artifacts
+end_time: 1712990375222
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 15a848454752429b95eb41c654865663
+run_name: fun-fowl-274
+run_uuid: 15a848454752429b95eb41c654865663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712990373174
+status: 3
+tags: []
+user_id: krushilramani
